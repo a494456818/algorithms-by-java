@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * 快速排序 O(nlogn)
+ * 二路快速排序 O(nlogn)
  */
 public class QuickSort {
 
@@ -20,7 +20,7 @@ public class QuickSort {
 
     public static void quickSort(int[] a, int low, int high) {
         // 1. 递归结束条件
-        if (low > high)
+        if (low >= high)
             return;
         // 2. 赋值
         int i = low, j = high;
