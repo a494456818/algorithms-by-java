@@ -9,3 +9,4 @@
 1. 01背包基础版本（[0-1-knapsack/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/0-1-knapsack/src)）
 2. 01背包优化版本（[0-1-knapsack-optimized/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/0-1-knapsack-optimized/src)）
 3. 完全背包问题（[complete-knapsack/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/complete-knapsack/src)）
+4. 多重背包问题（[multiple-knapsack/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/multiple-knapsack/src)）
