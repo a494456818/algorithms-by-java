@@ -60,7 +60,6 @@ public class SparseGraph implements Graph {
     }
 
     // 返回图中一个顶点的所有邻边
-    // 由于java使用引用机制，返回一个Vector不会带来额外开销,
     public Iterable<Integer> adj(int v) {
         assert v >= 0 && v < n;
         return g[v];
