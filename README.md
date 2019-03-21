@@ -13,7 +13,7 @@
 
 ### ===03-Longest-subsequence[持续更新]===
 
-字符的最长序列问题：
+字符串的最长序列问题：
 
 1. Longest common subsequence（[01-LCS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/01-LCS/src)）
 2. Longest Increasing Subsequence（[02-LIS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/02-LIS/src)）
