@@ -11,7 +11,7 @@
 3. 完全背包问题（[complete-knapsack/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/complete-knapsack/src)）
 4. 多重背包问题（[multiple-knapsack/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/multiple-knapsack/src)）
 
-### ===03-Longest-subsequence[持续更新]===
+### ===03-String-problem[持续更新]===
 
 字符串的最长序列问题：
 
