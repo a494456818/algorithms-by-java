@@ -13,10 +13,18 @@
 
 ### ===03-String-problem[持续更新]===
 
-字符串的最长序列问题：
+字符串问题
 
-1. Longest common subsequence（[01-LCS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/01-LCS/src)）
-2. Longest Increasing Subsequence（[02-LIS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/02-LIS/src)）
+1. [01-Longest-subsequence](https://github.com/a494456818/algorithms-by-java/tree/master/03-String-problem/01-Longest-subsequence)
+
+   - Longest common subsequence（[01-LCS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/01-LCS/src)）
+
+
+   - Longest Increasing Subsequence（[02-LIS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/02-LIS/src)）
+
+2. 02-string-matching【开垦中】
+
+
 
 ### ===04-Graph[持续更新]===
 
