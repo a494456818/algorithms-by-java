@@ -10,3 +10,25 @@
 2. 01背包优化版本（[0-1-knapsack-optimized/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/0-1-knapsack-optimized/src)）
 3. 完全背包问题（[complete-knapsack/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/complete-knapsack/src)）
 4. 多重背包问题（[multiple-knapsack/src](https://github.com/a494456818/algorithms-by-java/tree/master/02-knapsack-problem/multiple-knapsack/src)）
+
+### ===03-String-problem[持续更新]===
+
+字符串问题
+
+1. [01-Longest-subsequence](https://github.com/a494456818/algorithms-by-java/tree/master/03-String-problem/01-Longest-subsequence)
+
+   - Longest common subsequence（[01-LCS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/01-LCS/src)）
+
+
+   - Longest Increasing Subsequence（[02-LIS/src](https://github.com/a494456818/algorithms-by-java/tree/master/03-Longest-subsequence/02-LIS/src)）
+
+2. 02-string-matching【开垦中】
+
+
+
+### ===04-Graph[持续更新]===
+
+图论问题：
+
+1. [001-Graph-Basics](https://github.com/a494456818/algorithms-by-java/tree/master/04-Graph/001-Graph-Basics)
+
