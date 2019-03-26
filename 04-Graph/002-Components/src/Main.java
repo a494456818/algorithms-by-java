@@ -1,4 +1,3 @@
-import basics.DenseGraph;
 import basics.ReadGraph;
 import basics.SparseGraph;
 
@@ -17,7 +16,7 @@ public class Main {
         Components components = new Components(g1);
         int v = 0;
         List<Integer> bfs = components.bfs(0);
-        System.out.println("从顶点"+v+"出发时，广度优先遍历路径为："+bfs.toString());
+        System.out.println("从顶点" + v + "出发时，广度优先遍历路径为：" + bfs.toString());
     }
 
 }
