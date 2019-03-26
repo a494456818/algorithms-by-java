@@ -2,6 +2,8 @@ import java.util.Arrays;
 
 /**
  * 桶排序
+ * 时间复杂度：O(n)
+ * 空间复杂度：O(max(arr)) max(arr)表示arr数组中的最大值
  */
 public class BucketSort {
 
