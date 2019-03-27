@@ -18,5 +18,4 @@ public class Main {
         List<Integer> bfs = components.bfs(0);
         System.out.println("从顶点" + v + "出发时，广度优先遍历路径为：" + bfs.toString());
     }
-
 }
